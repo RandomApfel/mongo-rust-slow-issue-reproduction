@@ -1,4 +1,4 @@
-# Reproduce the slowness issue if MongoDB's Rust driver
+# Reproduce the slowness issue of MongoDB's Rust driver
 
 ## Steps
 - 1. Populate the Database
